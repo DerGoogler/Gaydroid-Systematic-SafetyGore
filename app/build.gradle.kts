@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.google.android.safety"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.google.android.safety"
-        minSdk = 16
-        targetSdk = 34
+        minSdk = 21
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
